@@ -1,19 +1,30 @@
-# Welcome to my my landing page
+[![MasterHead](https://github.blog/wp-content/uploads/2022/12/2fa-blog-banner.png?fit=2400%2C1260)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Alexander Wilson</h1>
+<h3 align="center">A passionate software developer from United Kingdom</h3>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952obzfrymet3vz16bia7kqv68hl0vg5v6in92jyv28&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexscodingexperience&label=Profile%20views&color=0e75b6&style=flat" alt="alexscodingexperience" /> </p>
 
-## About Me: Alex Wilson, Aspiring Web Developer
+- 🌱 I’m currently learning **front-end and back-end software engineering through hyperion dev's skills bootcamp and freeCodeCamp**
 
-Hello there! I'm Alex Wilson, a passionate and motivated web developer embarking on the exciting journey of launching my career in the ever-evolving world of technology. With a keen eye for design and a love for turning ideas into functional and visually appealing websites, I am eager to contribute my skills to innovative projects.
+- 🤝 I’m looking for a job in **Software engineering**
 
-## Education and Background
+- 📫 How to reach me **alexwilson100496@gmail.com**
 
-I come from a background where problem-solving and creativity intersect. My educational foundation is through a goverment funded software engineering bootcamp called coGrammer and an online course called freeCodeCamp, providing me with a solid understanding of web development principles. During my academic journey, I had the opportunity to work on diverse projects, gaining skills in HTML, CSS, JavaScript, Python and other essential technologies.
+- ⚡ Fun fact **I love to travel, I have travelled across Europe, North and South America and Asia**
 
-## Why Web Development?
-What drew me to web development is the endless potential to blend functionality with aesthetics. I find joy in writing clean and efficient code that brings a vision to life, ensuring a positive user experience. The dynamic nature of the field fuels my curiosity, pushing me to stay updated on the latest trends and technologies.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-wilson-15a5691b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-wilson-15a5691b2/" height="30" width="40" /></a>
+<a href="https://instagram.com/@xan_der96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@xan_der96" height="30" width="40" /></a>
+</p>
 
-## My Skill Set:
-HTML5, CSS3, JavaScript, Python, Github,
-Responsive Web Design,
-Front-end Development,
-Problem-solving and Debugging
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexscodingexperience&show_icons=true&locale=en&layout=compact" alt="alexscodingexperience" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexscodingexperience&show_icons=true&locale=en" alt="alexscodingexperience" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexscodingexperience&" alt="alexscodingexperience" /></p>
+
 
